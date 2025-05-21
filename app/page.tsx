@@ -13,7 +13,7 @@ export default function Home() {
           href="/create-account"
           className="primary-btn font-semibold text-lg py-2.5"
         >
-          시작하기
+          시작하기11
         </Link>
         <div className="flex items-center gap-2">
           <span>이미 계정이 있나요?</span>
